@@ -1,0 +1,16 @@
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\bin\Debug\net5.0\DIOseries.exe
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\bin\Debug\net5.0\DIOseries.deps.json
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\bin\Debug\net5.0\DIOseries.runtimeconfig.json
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\bin\Debug\net5.0\DIOseries.runtimeconfig.dev.json
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\bin\Debug\net5.0\DIOseries.dll
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\bin\Debug\net5.0\ref\DIOseries.dll
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\bin\Debug\net5.0\DIOseries.pdb
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.csproj.AssemblyReference.cache
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.AssemblyInfoInputs.cache
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.AssemblyInfo.cs
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.csproj.CoreCompileInputs.cache
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.dll
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\ref\DIOseries.dll
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.pdb
+C:\Users\vanessa.lima\source\repos\GIT\SeriesApp\obj\Debug\net5.0\DIOseries.genruntimeconfig.cache
